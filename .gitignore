@@ -1,0 +1,7 @@
+# Exclude files in these directories in the git repo
+_notes
+
+# plus exclude these specific files 
+*.bak
+desktop.ini
+.idea
